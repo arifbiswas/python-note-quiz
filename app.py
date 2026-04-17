@@ -6,7 +6,7 @@ from api_calling import note_generator,quiz_generator
 from text_to_voice import TTV
 
 #title Part
-st.title("Note Summery and Quize Generator")
+st.title("Note Summery and Quiz Generator")
 st.markdown("Upload up to 3 images to generate Note summery and Quizzes")
 st.divider()
 
